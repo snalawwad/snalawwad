@@ -6,7 +6,7 @@
 
 <!-- SPHERE + VINYL -->
 <p align="center">
-  <img src="./sphere.svg" width="49%" alt="Spinning sphere" />
+  <img src="./sphere4.svg" width="49%" alt="Spinning sphere" />
   <img src="./vinyl.svg" width="49%" alt="Vinyl record" />
 </p>
 
