@@ -4,8 +4,18 @@
 <!-- TOOLS -->
 <p align="center"><img src="./tools.svg" width="100%" alt="Tools: Jira, Confluence, Figma, Asana" /></p>
 
-<!-- SPHERE -->
-<p align="center"><img src="./sphere.svg" width="100%" alt="Spinning sphere on a CRT screen" /></p>
+<!-- SPHERE + VINYL -->
+<p align="center">
+  <img src="./sphere.svg" width="49%" alt="Spinning sphere" />
+  <img src="./vinyl.svg" width="49%" alt="Vinyl record" />
+</p>
+
+<!-- LIVE SPOTIFY -->
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=snalawwad&cover_image=true&theme=novatorem&show_offline=true&background_color=080707&bar_color=3cff7a&bar_color_cover=false&interchange=false&profanity=false&hide_remaster=true" alt="Now playing on Spotify" />
+  </a>
+</p>
 
 <!-- HAND IMAGE -->
 <p align="center"><img src="./hand.svg" width="100%" alt="Wireframe hand on a CRT screen" /></p>
